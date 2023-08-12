@@ -1,0 +1,13 @@
+.dark {
+  background-color: black;
+  color: rgb(184, 174, 174);
+}
+
+#tombol {
+  background-color: var(--bs-warning-text-emphasis);
+  color: var(--bs-secondary-bg);
+}
+
+.darkMODE {
+}
+
